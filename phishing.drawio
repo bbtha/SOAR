@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T10:42:28.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wqh0p3-due_ygHjPSPbm" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T16:40:16.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="42aKs8naHCzN6iL9VBvd" version="24.2.1" type="github">
   <diagram name="Page-1" id="_D295aHM6DxRnYINNuFs">
-    <mxGraphModel dx="899" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,10 +113,10 @@
         <mxCell id="NOB421JktoTjcJMpFMy6-40" value="Email&lt;br&gt;Send Email &amp;amp; Responsive Actions" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="994" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9umW0igtb12UseN2ZhyS-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png" vertex="1" parent="1">
+        <mxCell id="9umW0igtb12UseN2ZhyS-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png" parent="1" vertex="1">
           <mxGeometry x="444.81" y="130" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9umW0igtb12UseN2ZhyS-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="9umW0igtb12UseN2ZhyS-3">
+        <mxCell id="9umW0igtb12UseN2ZhyS-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9umW0igtb12UseN2ZhyS-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="330" as="targetPoint" />
             <Array as="points">
@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9umW0igtb12UseN2ZhyS-7" value="1. Collect Emails" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;" vertex="1" connectable="0" parent="9umW0igtb12UseN2ZhyS-5">
+        <mxCell id="9umW0igtb12UseN2ZhyS-7" value="1. Collect Emails" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;" parent="9umW0igtb12UseN2ZhyS-5" vertex="1" connectable="0">
           <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
